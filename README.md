@@ -1,16 +1,13 @@
-## Hi there 👋
+# Eduard Tudoran
 
-<!--
-**eddii1/eddii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & backend engineer. Previously founding engineer at an
+early-stage workflow-automation startup, where I built the
+document-understanding pipeline and the execution engine.
 
-Here are some ideas to get you started:
+Currently: 2nd year CS @ University of Bucharest.
+Relocating to Milan, October 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building with:** Python · FastAPI · LangChain · MCP ·
+PostgreSQL/pgvector · Docker · TypeScript/React
+
+📫 tudoranedi@gmail.com · [LinkedIn](https://linkedin.com/in/eduard-tudoran)
