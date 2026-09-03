@@ -14,13 +14,10 @@ cross-platform execution engine.
 **Now:** building an agentic triage pipeline on LangGraph at **FOREO**.
 
 ### Working with
-
 `Python` `TypeScript` · `LangGraph` `LangChain` `MCP` `Claude API` `PyTorch` ·
 `FastAPI` `Node.js` `PostgreSQL / pgvector` `Docker`
 
 ---
-
 Open to AI and backend engineering work in Milan or EU-remote.
-
 [tudoranedi@gmail.com](mailto:tudoranedi@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/eduard-tudoran)
