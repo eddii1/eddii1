@@ -18,6 +18,5 @@ cross-platform execution engine.
 `FastAPI` `Node.js` `PostgreSQL / pgvector` `Docker`
 
 ---
-Open to AI and backend engineering work in Milan or EU-remote.
 [tudoranedi@gmail.com](mailto:tudoranedi@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/eduard-tudoran)
