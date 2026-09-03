@@ -16,7 +16,7 @@ cross-platform execution engine.
 ### Working with
 
 `Python` `TypeScript` · `LangGraph` `LangChain` `MCP` `Claude API` `PyTorch` ·
-`FastAPI` `Node.js` `PostgreSQL / pgvector` `Docker` · `React`
+`FastAPI` `Node.js` `PostgreSQL / pgvector` `Docker`
 
 ---
 
