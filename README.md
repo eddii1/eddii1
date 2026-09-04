@@ -1,6 +1,6 @@
 # Eduard Tudoran
 
-AI and backend engineer, based in Milan.
+AI and fullstack engineer, based in Milan.
 
 I build LLM systems that can be measured. Most teams shipping AI features change a
 prompt or swap a model and have no way to tell whether it improved or degraded, so I
